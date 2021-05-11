@@ -14,7 +14,7 @@
   "main": "background.js",
   "dependencies": {
     "core-js": "^3.6.4",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "nfc-pcsc": "^0.8.0",
     "sqlite3": "^4.1.1",
     "sudo-prompt": "^9.1.1",
